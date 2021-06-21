@@ -1,0 +1,16 @@
+[[package]]
+category = "main"
+description = "Python dictionary module,spell checking,sessions .."
+name = "dictionary"
+optional = false
+python-versions = "*"
+version = "1.0"
+
+[metadata]
+content-hash = "489c091e2b84730e45bc50d27708d4612178d8b5ab7991c7e3152b68a5be4049"
+python-versions = "^3.8"
+
+[metadata.files]
+dictionary = [
+    {file = "dictionary-1.0.tar.gz", hash = "sha256:f198a683ec9ae81daf39f04cba19ef54642c4539bb8678e0930780ae003eaa93"},
+]
